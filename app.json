@@ -1,5 +1,5 @@
 {
-  "name": "ALONE-MD",
+  "name": "🇨 🇴 🇷 🇳 🇪 🇭  🇲 🇩 ",
   "description": "Alone is a multidevice WhatsApp bot built to make your WhatsApp enjoyable..",
   "keywords": [
     "bot",
@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/guk624.jpg",
+  "logo": "https://files.catbox.moe/7prw3l.jpg",
   "repository": "https://github.com/Toputech/turn-meh",
   "succes_url": "/",
   "stack": "container",
@@ -70,7 +70,7 @@
     },
     "BOT_NAME": {
       "description": "Give a name for your bot",
-      "value": "ᗩᒪOᑎE ᗰᗪ",
+      "value": "🇨 🇴 🇷 🇳 🇪 🇭  🇲 🇩 ",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -100,7 +100,7 @@
     },
     "OWNER_NAME": {
       "description": "Your name",
-      "value": "Toputech",
+      "value": "💞C💞O💞R💞N💞E💞H💞?💞",
       "required": false
     },
     "AUTOBIO": {
